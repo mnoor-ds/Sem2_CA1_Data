@@ -4,6 +4,6 @@
 In this project, a big dataset will be used to create a translation app using deep learning.
 
 Deep learning: CNN
-Dataset: AWS images massive images
+Dataset: AWS  massive images
 
 ## Contents
