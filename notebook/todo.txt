@@ -1,0 +1,13 @@
+TODO:
+
+# EDA and pre-processing
+- in 00_preprocess notebook, the 3x3 image plot needs to have its title fixed for arabic names:
+    -  partial fixing: https://stackoverflow.com/questions/15421746/matplotlib-writing-right-to-left-text-hebrew-arabic-etc
+    - also add figure legends, axes+units etc to the plots before moving on to CNN
+    
+# CNN
+- get pre-trained models (maybe 3 or 4), do HPO and compare accuracy/f1-score etc.
+
+
+# report
+- needs work
