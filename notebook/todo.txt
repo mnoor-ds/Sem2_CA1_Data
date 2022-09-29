@@ -6,7 +6,11 @@ TODO:
     - also add figure legends, axes+units etc to the plots before moving on to CNN
     
 # CNN
-- get pre-trained models (maybe 3 or 4), do HPO and compare accuracy/f1-score etc.
+- get pre-trained models (maybe 3 or 4), do HPO and compare accuracy/f1-score etc. --> goal is to show some work in CNN + how to choose architecture, not necessarily to achieve 100 % accuracy
+
+# App for model deployment
+- once the best model is done, do one final round of training and then save the model.
+- use plotly to create a simple 'upload image' app
 
 
 # report
