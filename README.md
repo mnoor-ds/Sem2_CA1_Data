@@ -1,8 +1,5 @@
 # CCT Semester 2 - Big Data and Advanced Data Analytics
 
-In this project, a big dataset will be used to create a translation app using deep learning.
+This project explores the use of pre-trained CNN models for image classification in Arabic.
 
-Deep learning: CNN
-Dataset: AWS  massive images
-
-## Contents
+The dataset of relevance is the Massively Multilingual Image Dataset (MMID), which is available on AWS S3.
